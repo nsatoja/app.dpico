@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bbd539770086800fa455a45a4d8a7883:6ea9d24134e2c58298f4230b2efd7c7d:de18d952f443fd139ea2d2d60b67d89a$ -->
+<TextureAtlas imagePath="menu2x.png">
+    <SubTexture name="appRingtoneLiteMC" x="791" y="107" width="96" height="96"/>
+    <SubTexture name="bgMC" x="3" y="3" width="640" height="960"/>
+    <SubTexture name="discardButtonMC" x="647" y="3" width="340" height="100"/>
+    <SubTexture name="facebook_button" x="891" y="107" width="96" height="96"/>
+    <SubTexture name="line_button" x="891" y="207" width="80" height="80"/>
+    <SubTexture name="question" x="647" y="107" width="140" height="128"/>
+    <SubTexture name="richi" x="3" y="967" width="200" height="20"/>
+    <SubTexture name="twitter_button" x="791" y="207" width="96" height="96"/>
+</TextureAtlas>

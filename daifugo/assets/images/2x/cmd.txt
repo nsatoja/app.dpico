@@ -1,0 +1,11 @@
+//leaf.pngを3種類の形式（DXT5、PVRTC、 ETC1x2）でパッケージする
+png2atf -c -i mahjong2x.png -o mahjong2x.atf
+
+/DXT形式のみパッケージする(PC)
+png2atf -c d -i mahjong2x.png -o mahjong2x.atf
+
+//ETC1形式のみパッケージする(Android)
+png2atf -c e -i mahjong2x.png -o mahjong2x.atf
+
+//PVRTC形式のみパッケージする(iphone)
+png2atf -c p -i mahjong2x.png -o mahjong2x.atf

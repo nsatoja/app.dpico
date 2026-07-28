@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="cards_gray2x.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="B01GRAYMC" x="2" y="2" width="200" height="300"/>
+	<SubTexture name="B02GRAYMC" x="204" y="2" width="200" height="300"/>
+	<SubTexture name="C01GRAYMC" x="406" y="2" width="200" height="300"/>
+	<SubTexture name="C02GRAYMC" x="608" y="2" width="200" height="300"/>
+	<SubTexture name="C03GRAYMC" x="810" y="2" width="200" height="300"/>
+	<SubTexture name="C04GRAYMC" x="1012" y="2" width="200" height="300"/>
+	<SubTexture name="C05GRAYMC" x="1214" y="2" width="200" height="300"/>
+	<SubTexture name="C06GRAYMC" x="1416" y="2" width="200" height="300"/>
+	<SubTexture name="C07GRAYMC" x="1618" y="2" width="200" height="300"/>
+	<SubTexture name="C08GRAYMC" x="1820" y="2" width="200" height="300"/>
+	<SubTexture name="C09GRAYMC" x="2" y="304" width="200" height="300"/>
+	<SubTexture name="C10GRAYMC" x="204" y="304" width="200" height="300"/>
+	<SubTexture name="C11GRAYMC" x="406" y="304" width="200" height="300"/>
+	<SubTexture name="C12GRAYMC" x="608" y="304" width="200" height="300"/>
+	<SubTexture name="C13GRAYMC" x="810" y="304" width="200" height="300"/>
+	<SubTexture name="D01GRAYMC" x="1012" y="304" width="200" height="300"/>
+	<SubTexture name="D02GRAYMC" x="1214" y="304" width="200" height="300"/>
+	<SubTexture name="D03GRAYMC" x="1416" y="304" width="200" height="300"/>
+	<SubTexture name="D04GRAYMC" x="1618" y="304" width="200" height="300"/>
+	<SubTexture name="D05GRAYMC" x="1820" y="304" width="200" height="300"/>
+	<SubTexture name="D06GRAYMC" x="2" y="606" width="200" height="300"/>
+	<SubTexture name="D07GRAYMC" x="204" y="606" width="200" height="300"/>
+	<SubTexture name="D08GRAYMC" x="406" y="606" width="200" height="300"/>
+	<SubTexture name="D09GRAYMC" x="608" y="606" width="200" height="300"/>
+	<SubTexture name="D10GRAYMC" x="810" y="606" width="200" height="300"/>
+	<SubTexture name="D11GRAYMC" x="1012" y="606" width="200" height="300"/>
+	<SubTexture name="D12GRAYMC" x="1214" y="606" width="200" height="300"/>
+	<SubTexture name="D13GRAYMC" x="1416" y="606" width="200" height="300"/>
+	<SubTexture name="GRAYGRAYMC" x="1618" y="606" width="200" height="300"/>
+	<SubTexture name="H01GRAYMC" x="1820" y="606" width="200" height="300"/>
+	<SubTexture name="H02GRAYMC" x="2" y="908" width="200" height="300"/>
+	<SubTexture name="H03GRAYMC" x="204" y="908" width="200" height="300"/>
+	<SubTexture name="H04GRAYMC" x="406" y="908" width="200" height="300"/>
+	<SubTexture name="H05GRAYMC" x="608" y="908" width="200" height="300"/>
+	<SubTexture name="H06GRAYMC" x="810" y="908" width="200" height="300"/>
+	<SubTexture name="H07GRAYMC" x="1012" y="908" width="200" height="300"/>
+	<SubTexture name="H08GRAYMC" x="1214" y="908" width="200" height="300"/>
+	<SubTexture name="H09GRAYMC" x="1416" y="908" width="200" height="300"/>
+	<SubTexture name="H10GRAYMC" x="1618" y="908" width="200" height="300"/>
+	<SubTexture name="H11GRAYMC" x="1820" y="908" width="200" height="300"/>
+	<SubTexture name="H12GRAYMC" x="2" y="1210" width="200" height="300"/>
+	<SubTexture name="H13GRAYMC" x="204" y="1210" width="200" height="300"/>
+	<SubTexture name="J01GRAYMC" x="406" y="1210" width="200" height="300"/>
+	<SubTexture name="S01GRAYMC" x="608" y="1210" width="200" height="300"/>
+	<SubTexture name="S02GRAYMC" x="810" y="1210" width="200" height="300"/>
+	<SubTexture name="S03GRAYMC" x="1012" y="1210" width="200" height="300"/>
+	<SubTexture name="S04GRAYMC" x="1214" y="1210" width="200" height="300"/>
+	<SubTexture name="S05GRAYMC" x="1416" y="1210" width="200" height="300"/>
+	<SubTexture name="S06GRAYMC" x="1618" y="1210" width="200" height="300"/>
+	<SubTexture name="S07GRAYMC" x="1820" y="1210" width="200" height="300"/>
+	<SubTexture name="S08GRAYMC" x="2" y="1512" width="200" height="300"/>
+	<SubTexture name="S09GRAYMC" x="204" y="1512" width="200" height="300"/>
+	<SubTexture name="S10GRAYMC" x="406" y="1512" width="200" height="300"/>
+	<SubTexture name="S11GRAYMC" x="608" y="1512" width="200" height="300"/>
+	<SubTexture name="S12GRAYMC" x="810" y="1512" width="200" height="300"/>
+	<SubTexture name="S13GRAYMC" x="1012" y="1512" width="200" height="300"/>
+</TextureAtlas>
