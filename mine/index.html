@@ -6,9 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="assets/style.css" />
     <title>MineSweeper!</title>
-    <script type="module" crossorigin src="./assets/index-DQ_O3yqp.js"></script>
+
+    <style>
+      #info_dialog {
+        margin:auto;
+	      padding: 1.5rem;
+	      border: none;
+	      border-radius: 0.5rem;
+	      text-align: center;
+        
+      }
+      #info_dialog button {
+	      padding: 0.5rem 1rem;
+	      border-radius: 0.4rem;
+	      cursor: pointer;
+      }
+      #info_dialog::backdrop {
+        
+        backdrop-filter: blur(2px);
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-CC6VkCdA.js"></script>
   </head>
   <body>
     <div id="app" style="width: 100%; height: calc(100% - 50px)"></div>
+    <dialog id="info_dialog">
+     <form method="dialog">
+          <p>運営者情報</p>
+          <p>株式会社ドットピコ</p>
+          <p><a href="https://dotpico.com" target="_blank">https://dotpico.com</a></p>
+          <p><br/></p>
+          <p>お問い合わせは下記までお願いします</p>
+          <p><a href="mailto:n.sato.ja@gmail.com?subject=マインスイーパ(ミニアプリ版)">n.sato.ja@gmail.com</a></p>
+          <p><br/></p>
+          <button autofocus>閉じる</button>
+     <form>
+</dialog>
   </body>
 </html>
