@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:196fb5a9faa153423d12b572b4265a26:208c360ab3b71a800c46b743782ec554:93a96ff707d0fcbef8e6d0db1e417aa4$ -->
+<TextureAtlas imagePath="cards_small.png">
+    <SubTexture name="b01s" x="3" y="3" width="80" height="120"/>
+    <SubTexture name="b02s" x="3" y="127" width="80" height="120"/>
+    <SubTexture name="c01s" x="3" y="251" width="80" height="120"/>
+    <SubTexture name="c02s" x="3" y="375" width="80" height="120"/>
+    <SubTexture name="c03s" x="3" y="499" width="80" height="120"/>
+    <SubTexture name="c04s" x="3" y="623" width="80" height="120"/>
+    <SubTexture name="c05s" x="3" y="747" width="80" height="120"/>
+    <SubTexture name="c06s" x="3" y="871" width="80" height="120"/>
+    <SubTexture name="c07s" x="87" y="3" width="80" height="120"/>
+    <SubTexture name="c08s" x="171" y="3" width="80" height="120"/>
+    <SubTexture name="c09s" x="255" y="3" width="80" height="120"/>
+    <SubTexture name="c10s" x="339" y="3" width="80" height="120"/>
+    <SubTexture name="c11s" x="423" y="3" width="80" height="120"/>
+    <SubTexture name="c12s" x="507" y="3" width="80" height="120"/>
+    <SubTexture name="c13s" x="591" y="3" width="80" height="120"/>
+    <SubTexture name="d01s" x="675" y="3" width="80" height="120"/>
+    <SubTexture name="d02s" x="759" y="3" width="80" height="120"/>
+    <SubTexture name="d03s" x="843" y="3" width="80" height="120"/>
+    <SubTexture name="d04s" x="927" y="3" width="80" height="120"/>
+    <SubTexture name="d05s" x="87" y="127" width="80" height="120"/>
+    <SubTexture name="d06s" x="87" y="251" width="80" height="120"/>
+    <SubTexture name="d07s" x="87" y="375" width="80" height="120"/>
+    <SubTexture name="d08s" x="87" y="499" width="80" height="120"/>
+    <SubTexture name="d09s" x="87" y="623" width="80" height="120"/>
+    <SubTexture name="d10s" x="87" y="747" width="80" height="120"/>
+    <SubTexture name="d11s" x="87" y="871" width="80" height="120"/>
+    <SubTexture name="d12s" x="171" y="127" width="80" height="120"/>
+    <SubTexture name="d13s" x="171" y="251" width="80" height="120"/>
+    <SubTexture name="h01s" x="171" y="375" width="80" height="120"/>
+    <SubTexture name="h02s" x="171" y="499" width="80" height="120"/>
+    <SubTexture name="h03s" x="171" y="623" width="80" height="120"/>
+    <SubTexture name="h04s" x="171" y="747" width="80" height="120"/>
+    <SubTexture name="h05s" x="171" y="871" width="80" height="120"/>
+    <SubTexture name="h06s" x="255" y="127" width="80" height="120"/>
+    <SubTexture name="h07s" x="339" y="127" width="80" height="120"/>
+    <SubTexture name="h08s" x="423" y="127" width="80" height="120"/>
+    <SubTexture name="h09s" x="507" y="127" width="80" height="120"/>
+    <SubTexture name="h10s" x="591" y="127" width="80" height="120"/>
+    <SubTexture name="h11s" x="675" y="127" width="80" height="120"/>
+    <SubTexture name="h12s" x="759" y="127" width="80" height="120"/>
+    <SubTexture name="h13s" x="843" y="127" width="80" height="120"/>
+    <SubTexture name="j01s" x="927" y="127" width="80" height="120"/>
+    <SubTexture name="j02s" x="255" y="251" width="80" height="120"/>
+    <SubTexture name="s01s" x="255" y="375" width="80" height="120"/>
+    <SubTexture name="s02s" x="255" y="499" width="80" height="120"/>
+    <SubTexture name="s03s" x="255" y="623" width="80" height="120"/>
+    <SubTexture name="s04s" x="255" y="747" width="80" height="120"/>
+    <SubTexture name="s05s" x="255" y="871" width="80" height="120"/>
+    <SubTexture name="s06s" x="339" y="251" width="80" height="120"/>
+    <SubTexture name="s07s" x="423" y="251" width="80" height="120"/>
+    <SubTexture name="s08s" x="507" y="251" width="80" height="120"/>
+    <SubTexture name="s09s" x="591" y="251" width="80" height="120"/>
+    <SubTexture name="s10s" x="675" y="251" width="80" height="120"/>
+    <SubTexture name="s11s" x="759" y="251" width="80" height="120"/>
+    <SubTexture name="s12s" x="843" y="251" width="80" height="120"/>
+    <SubTexture name="s13s" x="927" y="251" width="80" height="120"/>
+</TextureAtlas>
