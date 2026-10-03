@@ -1,4 +1,4 @@
-import{E as e,H as t,M as n,N as r,T as i,V as a,_ as o,r as s,t as c,z as l}from"./BaseData-DQrX993l.js";var u=class u extends c{constructor(){super(),u.createHelps()}get helps(){return c.mHelps.score||{}}static createHelps(){if(c.mHelps.score)return;c.mHelps.score={};let e=c.mHelps.score;e[s.TOTAL_SCORE]=l(`大富豪    30点
+import{E as e,H as t,M as n,N as r,T as i,V as a,_ as o,r as s,t as c,z as l}from"./BaseData-DeEQYrY7.js";var u=class u extends c{constructor(){super(),u.createHelps()}get helps(){return c.mHelps.score||{}}static createHelps(){if(c.mHelps.score)return;c.mHelps.score={};let e=c.mHelps.score;e[s.TOTAL_SCORE]=l(`大富豪    30点
 富豪       10点
 平民         0点
 貧民      -10点

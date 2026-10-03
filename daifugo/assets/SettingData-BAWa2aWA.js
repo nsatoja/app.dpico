@@ -1,4 +1,4 @@
-import{E as e,H as t,M as n,T as r,V as i,h as a,l as o,t as s,z as c}from"./BaseData-DQrX993l.js";var l=class l extends s{constructor(){super(),l.createHelps()}get helps(){return s.mHelps.setting||{}}static createHelps(){if(s.mHelps.setting)return;s.mHelps.setting={};let e=s.mHelps.setting;e[o.CARD_SELECT_MODE]=c(`カードの選択モードを設定します。
+import{E as e,H as t,M as n,T as r,V as i,h as a,l as o,t as s,z as c}from"./BaseData-DeEQYrY7.js";var l=class l extends s{constructor(){super(),l.createHelps()}get helps(){return s.mHelps.setting||{}}static createHelps(){if(s.mHelps.setting)return;s.mHelps.setting={};let e=s.mHelps.setting;e[o.CARD_SELECT_MODE]=c(`カードの選択モードを設定します。
 
 「クイック」はカードを1枚選択すると
 出せるカードがある場合自動的に

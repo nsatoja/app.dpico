@@ -1,4 +1,4 @@
-import{A as e,E as t,H as n,M as r,T as i,V as a,t as o,v as s,z as c}from"./BaseData-DQrX993l.js";var l=class l extends o{constructor(){super(),l.createHelps()}get helps(){return o.mHelps.rule||{}}static createHelps(){if(o.mHelps.rule)return;o.mHelps.rule={};let t=o.mHelps.rule;t[e.ENABLE_8GIRI]=c(`8を出すと強制的に場が流れます。
+import{A as e,E as t,H as n,M as r,T as i,V as a,t as o,v as s,z as c}from"./BaseData-DeEQYrY7.js";var l=class l extends o{constructor(){super(),l.createHelps()}get helps(){return o.mHelps.rule||{}}static createHelps(){if(o.mHelps.rule)return;o.mHelps.rule={};let t=o.mHelps.rule;t[e.ENABLE_8GIRI]=c(`8を出すと強制的に場が流れます。
 
 ※階段時も出せるか設定できます
 階段がONになってないと有効ではありません。
