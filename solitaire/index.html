@@ -1,3 +1,73 @@
-<!doctype html><html><head><title>Quasar App</title><meta charset=utf-8><meta name=description content="A Quasar Project"><meta name=format-detection content="telephone=no"><meta name=msapplication-tap-highlight content=no><meta name=viewport content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width"><meta http-equiv=Content-Security-Policy content="default-src 'self'; img-src 'self' data: blob:;script-src 'self'; style-src 'self' 'unsafe-inline';"><link rel=icon type=image/png sizes=128x128 href=./icons/favicon-128x128.png><link rel=icon type=image/png sizes=96x96 href=./icons/favicon-96x96.png><link rel=icon type=image/png sizes=32x32 href=./icons/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=./icons/favicon-16x16.png><link rel=icon type=image/ico href=./favicon.ico>  <script type="module" crossorigin src="./assets/index-Tz5AiiOV.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-PxoArKQT.css">
-</head><body style="overflow: hidden"><div id=q-app></div></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/style.css" />
+    <title>Solitaire!</title>
+    <!-- 広告のJS: async属性をつけてください -->
+    <script async src="https://yads.c.yimg.jp/js/yads-async.js"></script>
+    <style>
+      #info_dialog {
+        margin: auto;
+        padding: 1.5rem;
+        border: none;
+        border-radius: 0.5rem;
+        text-align: center;
+      }
+      #info_dialog button {
+        padding: 0.5rem 1rem;
+        border-radius: 0.4rem;
+        cursor: pointer;
+      }
+      #info_dialog::backdrop {
+        backdrop-filter: blur(2px);
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-XIGls9qm.js"></script>
+  </head>
+  <body style="padding-bottom: 34px; height: 100dvh">
+    <div
+      style="display: flex; width: 100%; height: 100%; flex-direction: column"
+    >
+      <div id="app" style="width: 100%; height: 0px; flex-grow: 1"></div>
+      <div
+        id="yads20864_1143880"
+        style="height: 50px; background-color: rgb(50, 50, 50)"
+      >
+        <!-- 広告展開先の要素: window.YJ_YADS.tasks.push()の実行前に要素がレンダリングされている必要があります -->
+      </div>
+    </div>
+
+    <!-- サービスのJS: YADSタグを実行してください。 -->
+    <script>
+      (function (window) {
+        window.YJ_YADS = window.YJ_YADS || { tasks: [] };
+        window.YJ_YADS.tasks.push({
+          yads_ad_ds: "20864_1143880",
+          yads_parent_element: "yads20864_1143880",
+        });
+      })(window);
+    </script>
+    <dialog id="info_dialog">
+      <form method="dialog">
+        <p>運営者情報</p>
+        <p>株式会社ドットピコ</p>
+        <p>
+          <a href="https://dotpico.com" target="_blank">https://dotpico.com</a>
+        </p>
+        <p><br /></p>
+        <p>お問い合わせは下記までお願いします</p>
+        <p>
+          <a href="mailto:n.sato.ja@gmail.com?subject=ソリティア(ミニアプリ版)"
+            >n.sato.ja@gmail.com</a
+          >
+        </p>
+        <p><br /></p>
+        <button autofocus>閉じる</button>
+      </form>
+    </dialog>
+
+  </body>
+</html>
