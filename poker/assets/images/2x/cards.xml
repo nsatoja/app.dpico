@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="cards.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="B01MC" x="2" y="2" width="200" height="300"/>
+	<SubTexture name="B02MC" x="204" y="2" width="200" height="300"/>
+	<SubTexture name="C01MC" x="406" y="2" width="200" height="300"/>
+	<SubTexture name="C02MC" x="608" y="2" width="200" height="300"/>
+	<SubTexture name="C03MC" x="810" y="2" width="200" height="300"/>
+	<SubTexture name="C04MC" x="1012" y="2" width="200" height="300"/>
+	<SubTexture name="C05MC" x="1214" y="2" width="200" height="300"/>
+	<SubTexture name="C06MC" x="1416" y="2" width="200" height="300"/>
+	<SubTexture name="C07MC" x="1618" y="2" width="200" height="300"/>
+	<SubTexture name="C08MC" x="1820" y="2" width="200" height="300"/>
+	<SubTexture name="C09MC" x="2" y="304" width="200" height="300"/>
+	<SubTexture name="C10MC" x="204" y="304" width="200" height="300"/>
+	<SubTexture name="C11MC" x="406" y="304" width="200" height="300"/>
+	<SubTexture name="C12MC" x="608" y="304" width="200" height="300"/>
+	<SubTexture name="C13MC" x="810" y="304" width="200" height="300"/>
+	<SubTexture name="D01MC" x="1012" y="304" width="200" height="300"/>
+	<SubTexture name="D02MC" x="1214" y="304" width="200" height="300"/>
+	<SubTexture name="D03MC" x="1416" y="304" width="200" height="300"/>
+	<SubTexture name="D04MC" x="1618" y="304" width="200" height="300"/>
+	<SubTexture name="D05MC" x="1820" y="304" width="200" height="300"/>
+	<SubTexture name="D06MC" x="2" y="606" width="200" height="300"/>
+	<SubTexture name="D07MC" x="204" y="606" width="200" height="300"/>
+	<SubTexture name="D08MC" x="406" y="606" width="200" height="300"/>
+	<SubTexture name="D09MC" x="608" y="606" width="200" height="300"/>
+	<SubTexture name="D10MC" x="810" y="606" width="200" height="300"/>
+	<SubTexture name="D11MC" x="1012" y="606" width="200" height="300"/>
+	<SubTexture name="D12MC" x="1214" y="606" width="200" height="300"/>
+	<SubTexture name="D13MC" x="1416" y="606" width="200" height="300"/>
+	<SubTexture name="GRAYMC" x="1618" y="606" width="200" height="300"/>
+	<SubTexture name="H01MC" x="1820" y="606" width="200" height="300"/>
+	<SubTexture name="H02MC" x="2" y="908" width="200" height="300"/>
+	<SubTexture name="H03MC" x="204" y="908" width="200" height="300"/>
+	<SubTexture name="H04MC" x="406" y="908" width="200" height="300"/>
+	<SubTexture name="H05MC" x="608" y="908" width="200" height="300"/>
+	<SubTexture name="H06MC" x="810" y="908" width="200" height="300"/>
+	<SubTexture name="H07MC" x="1012" y="908" width="200" height="300"/>
+	<SubTexture name="H08MC" x="1214" y="908" width="200" height="300"/>
+	<SubTexture name="H09MC" x="1416" y="908" width="200" height="300"/>
+	<SubTexture name="H10MC" x="1618" y="908" width="200" height="300"/>
+	<SubTexture name="H11MC" x="1820" y="908" width="200" height="300"/>
+	<SubTexture name="H12MC" x="2" y="1210" width="200" height="300"/>
+	<SubTexture name="H13MC" x="204" y="1210" width="200" height="300"/>
+	<SubTexture name="J01MC" x="406" y="1210" width="200" height="300"/>
+	<SubTexture name="S01MC" x="608" y="1210" width="200" height="300"/>
+	<SubTexture name="S02MC" x="810" y="1210" width="200" height="300"/>
+	<SubTexture name="S03MC" x="1012" y="1210" width="200" height="300"/>
+	<SubTexture name="S04MC" x="1214" y="1210" width="200" height="300"/>
+	<SubTexture name="S05MC" x="1416" y="1210" width="200" height="300"/>
+	<SubTexture name="S06MC" x="1618" y="1210" width="200" height="300"/>
+	<SubTexture name="S07MC" x="1820" y="1210" width="200" height="300"/>
+	<SubTexture name="S08MC" x="2" y="1512" width="200" height="300"/>
+	<SubTexture name="S09MC" x="204" y="1512" width="200" height="300"/>
+	<SubTexture name="S10MC" x="406" y="1512" width="200" height="300"/>
+	<SubTexture name="S11MC" x="608" y="1512" width="200" height="300"/>
+	<SubTexture name="S12MC" x="810" y="1512" width="200" height="300"/>
+	<SubTexture name="S13MC" x="1012" y="1512" width="200" height="300"/>
+</TextureAtlas>

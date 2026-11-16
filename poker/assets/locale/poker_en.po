@@ -1,0 +1,1614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-08-13 08:05+0900\n"
+"PO-Revision-Date: 2015-08-13 08:05+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../../src\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: com/dotpico/Config.as:10
+msgid "ポーカー"
+msgstr "Poker"
+
+#: com/dotpico/Config.as:17
+msgid ""
+"この「ポーカー」アプリおすすめ！\n"
+"暇つぶしに最適！"
+msgstr "Good Poker App!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:78
+msgid "大 富 豪 !"
+msgstr "Daifugo!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:90
+msgid "七 並 べ !"
+msgstr "Sevens!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:102
+msgid "スパイダー!"
+msgstr "Spider Solitaire!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:113
+msgid "ソリティア!"
+msgstr "Solitaire!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:124
+msgid "麻 雀 !"
+msgstr "Mahjong!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:136
+msgid "フリーセル!"
+msgstr "FreeCell!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:147
+msgid "マインスイーパ!"
+msgstr "MineSweeper!"
+
+#: com/dotpico/common/admediation/Config/MyAdConfig.as:160
+msgid "着信音M!"
+msgstr "Ringtone!"
+
+#: com/dotpico/common/ui/Popup.as:159
+msgid "OK"
+msgstr "OK"
+
+#: com/dotpico/common/ui/Popup.as:168
+#: com/dotpico/game/view/button/ButtonManager.as:131
+msgid "キャンセル"
+msgstr "Cancel"
+
+#: com/dotpico/common/ui/webview/WebViewScreen.as:47
+#: com/dotpico/game/WebViewScene.as:61
+#: com/dotpico/game/ui/screens/RuleScreen.as:142
+#: com/dotpico/game/ui/screens/ScoreScreen.as:80
+#: com/dotpico/game/ui/screens/SettingScreen.as:91
+msgid "閉じる"
+msgstr "Close"
+
+#: com/dotpico/common/ui/webview/WebViewScreen.as:57
+#: com/dotpico/game/WebViewScene.as:55
+msgid "戻る"
+msgstr "Back"
+
+#: com/dotpico/framework/SceneBase.as:461 com/dotpico/game/GameScene.as:92
+#: com/dotpico/game/MenuScene.as:39 com/dotpico/game/MenuScene.as:176
+#: com/dotpico/game/WebViewScene.as:33
+msgid "ヘルプ"
+msgstr "Help"
+
+#: com/dotpico/game/GameScene.as:77
+msgid "メニュー"
+msgstr "Menu"
+
+#: com/dotpico/game/GameScene.as:80
+msgid "新規"
+msgstr "New"
+
+#: com/dotpico/game/GameScene.as:89
+#: com/dotpico/game/ui/screens/RuleScreen.as:125
+#: com/dotpico/game/ui/screens/SettingScreen.as:78
+msgid "ルール"
+msgstr "Rule"
+
+#: com/dotpico/game/GameScene.as:187
+msgid "ポーズ中"
+msgstr "Pause"
+
+#: com/dotpico/game/GameScene.as:187
+msgid "再開するには画面をタップしてください"
+msgstr "Please tap the screen to resume"
+
+#: com/dotpico/game/GameScene.as:486
+msgid "新しいゲーム"
+msgstr "New Game"
+
+#: com/dotpico/game/GameScene.as:486
+msgid ""
+"現在のゲームを終了しますが\n"
+"よろしいですか?"
+msgstr "Do you start a new game?"
+
+#: com/dotpico/game/MenuScene.as:28
+msgid "  "
+msgstr " "
+
+#: com/dotpico/game/MenuScene.as:28
+#: com/dotpico/game/ui/GameCompletePopup.as:263
+#: com/dotpico/game/ui/screens/RuleScreen.as:464
+#: com/dotpico/game/ui/screens/ScoreScreen.as:452
+#: com/dotpico/game/ui/screens/SettingScreen.as:380
+msgid "！"
+msgstr "!"
+
+#: com/dotpico/game/MenuScene.as:30 com/dotpico/game/MenuScene.as:149
+#: com/dotpico/game/view/animation/RoundStartAnimation.as:84
+#: com/dotpico/game/view/animation/StartAnimation.as:99
+msgid "スタート"
+msgstr "Start"
+
+#: com/dotpico/game/MenuScene.as:33 com/dotpico/game/MenuScene.as:160
+#: com/dotpico/game/ui/screens/ScoreScreen.as:76
+#: com/dotpico/game/view/animation/GameEndAnimation.as:177
+msgid "成績"
+msgstr "Score"
+
+#: com/dotpico/game/MenuScene.as:36
+msgid "設 定"
+msgstr "Setting"
+
+#: com/dotpico/game/MenuScene.as:136
+msgid "大富豪!"
+msgstr "Daifugo!"
+
+#: com/dotpico/game/MenuScene.as:168
+#: com/dotpico/game/ui/screens/RuleScreen.as:130
+#: com/dotpico/game/ui/screens/SettingScreen.as:73
+msgid "設定"
+msgstr "Setting"
+
+#: com/dotpico/game/ui/GameCompletePopup.as:131
+#: com/dotpico/game/ui/screens/ScoreScreen.as:144
+#: com/dotpico/game/ui/screens/ScoreScreen.as:151
+#: com/dotpico/game/ui/screens/ScoreScreen.as:161
+msgid "点"
+msgstr "Points"
+
+#: com/dotpico/game/ui/GameCompletePopup.as:139
+msgid "{0}連勝中！！"
+msgstr "Win {0} Games"
+
+#: com/dotpico/game/ui/GameCompletePopup.as:146
+msgid "スコア記録更新！！"
+msgstr "Score Updated!"
+
+#: com/dotpico/game/ui/GameCompletePopup.as:256
+msgid "只今、{0}連勝中！！"
+msgstr "Win {0} Games"
+
+#: com/dotpico/game/ui/GameCompletePopup.as:259
+msgid "自己ベスト更新！ "
+msgstr "Score Updated!"
+
+#: com/dotpico/game/ui/GameCompletePopup.as:261
+msgid "点 "
+msgstr "Points"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:73
+msgid "ゲームはじめの所持金額です。"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:74
+msgid "ラウンド開始時に毎回支払う参加費です。"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:76
+msgid "ベットできる金額です。"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:78
+msgid "ベッティングラウンドの回数です。"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:80
+msgid "各プレイヤーがレイズできる回数です。"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:82
+msgid ""
+"レイズ回数が、ベッティングラウンドごとか\n"
+"全体か選ぶことができます"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:84
+msgid ""
+"レイズしたときの金額。\n"
+"ベット金額 * レイズレート"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:86
+msgid "ジョーカーの枚数"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:265
+msgid "オプショナル"
+msgstr "Option"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:269
+msgid "アンティ(参加費)"
+msgstr "Ante"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:270
+msgid "ベット金額"
+msgstr "Bet"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:278
+msgid "ジョーカー"
+msgstr "Joker"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:281
+msgid "枚数"
+msgstr "Number"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:281
+msgid "0枚"
+msgstr "0"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:281
+msgid "1枚"
+msgstr "1"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:281
+msgid "2枚"
+msgstr "2"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:293
+#: com/dotpico/game/ui/screens/ScoreScreen.as:211
+msgid "その他"
+msgstr "Etc"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:296
+msgid "ルールの初期化"
+msgstr "Reset Rule"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:296
+#: com/dotpico/game/ui/screens/ScoreScreen.as:214
+#: com/dotpico/game/ui/screens/SettingScreen.as:159
+msgid "リセット"
+msgstr "Reset"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:297
+#: com/dotpico/game/ui/screens/ScoreScreen.as:215
+#: com/dotpico/game/ui/screens/SettingScreen.as:160
+msgid "シェア"
+msgstr "Share"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:297
+#: com/dotpico/game/ui/screens/ScoreScreen.as:215
+#: com/dotpico/game/ui/screens/SettingScreen.as:160
+msgid "友人に勧める"
+msgstr "Recommend"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:297
+#: com/dotpico/game/ui/screens/ScoreScreen.as:215
+#: com/dotpico/game/ui/screens/SettingScreen.as:160
+msgid "フォローする"
+msgstr "Follow"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:298
+#: com/dotpico/game/ui/screens/ScoreScreen.as:216
+#: com/dotpico/game/ui/screens/SettingScreen.as:161
+msgid "レビューを書く"
+msgstr "Review"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:298
+#: com/dotpico/game/ui/screens/ScoreScreen.as:216
+#: com/dotpico/game/ui/screens/SettingScreen.as:161
+msgid "書　く"
+msgstr "Write"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:299
+#: com/dotpico/game/ui/screens/ScoreScreen.as:217
+#: com/dotpico/game/ui/screens/SettingScreen.as:162
+msgid "追加希望、バグ報告"
+msgstr "report bug"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:299
+#: com/dotpico/game/ui/screens/ScoreScreen.as:217
+#: com/dotpico/game/ui/screens/SettingScreen.as:162
+msgid "Twitterで"
+msgstr "Twitter"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:461
+#: com/dotpico/game/ui/screens/ScoreScreen.as:446
+#: com/dotpico/game/ui/screens/SettingScreen.as:377
+#: com/dotpico/game/ui/screens/SettingScreen.as:508
+msgid "アラート"
+msgstr "Alert"
+
+#: com/dotpico/game/ui/screens/RuleScreen.as:461
+#: com/dotpico/game/ui/screens/ScoreScreen.as:446
+#: com/dotpico/game/ui/screens/SettingScreen.as:377
+msgid "初期状態に戻しますか？"
+msgstr "Reset ?"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:131
+msgid ""
+"１位    30点\n"
+"２位       20点\n"
+"ラスト２位         5点\n"
+"最下位      0点\n"
+"その他  10点\n"
+"１位継続ボーナス 10点"
+msgstr ""
+"1st   30 points\n"
+"2nd        20 points\n"
+"Last 2       5 points\n"
+"Last     0 points\n"
+"Etc 10 points\n"
+"1st again bonus 10 points"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:144
+msgid "トータルスコア"
+msgstr "Total Score"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:148
+msgid "ゲーム"
+msgstr "Game"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:151
+#: com/dotpico/game/ui/screens/ScoreScreen.as:161
+msgid "最高得点"
+msgstr "Best Score"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:152
+msgid "総ゲーム数"
+msgstr "Game Times"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:152
+#: com/dotpico/game/ui/screens/ScoreScreen.as:153
+#: com/dotpico/game/ui/screens/ScoreScreen.as:162
+#: com/dotpico/game/ui/screens/ScoreScreen.as:163
+#: com/dotpico/game/ui/screens/ScoreScreen.as:171
+#: com/dotpico/game/ui/screens/ScoreScreen.as:172
+#: com/dotpico/game/ui/screens/ScoreScreen.as:173
+#: com/dotpico/game/ui/screens/ScoreScreen.as:174
+#: com/dotpico/game/ui/screens/ScoreScreen.as:183
+#: com/dotpico/game/ui/screens/ScoreScreen.as:185
+#: com/dotpico/game/ui/screens/ScoreScreen.as:187
+#: com/dotpico/game/ui/screens/ScoreScreen.as:189
+#: com/dotpico/game/ui/screens/ScoreScreen.as:191
+#: com/dotpico/game/ui/screens/ScoreScreen.as:193
+#: com/dotpico/game/ui/screens/ScoreScreen.as:195
+#: com/dotpico/game/ui/screens/ScoreScreen.as:197
+#: com/dotpico/game/ui/screens/ScoreScreen.as:199
+#: com/dotpico/game/ui/screens/ScoreScreen.as:201
+#: com/dotpico/game/ui/screens/ScoreScreen.as:203
+#: com/dotpico/game/ui/screens/ScoreScreen.as:205
+#: com/dotpico/game/ui/screens/ScoreScreen.as:207
+msgid "回"
+msgstr "round"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:153
+#: com/dotpico/game/ui/screens/ScoreScreen.as:163
+msgid "勝利数"
+msgstr "Win"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:154
+#: com/dotpico/game/ui/screens/ScoreScreen.as:164
+msgid "勝率"
+msgstr "Win Rate"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:154
+#: com/dotpico/game/ui/screens/ScoreScreen.as:164
+msgid "％"
+msgstr "%"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:158
+msgid "ラウンド"
+msgstr "Round"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:162
+msgid "総ラウンド数"
+msgstr "Total Round"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:168
+msgid "順位"
+msgstr "Rank"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:171
+#: com/dotpico/playingcards/Player.as:69
+#: com/dotpico/playingcards/PlayersRank.as:130
+msgid "１位"
+msgstr "1st"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:172
+#: com/dotpico/playingcards/Player.as:70
+#: com/dotpico/playingcards/PlayersRank.as:132
+msgid "２位"
+msgstr "2nd"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:173
+#: com/dotpico/playingcards/PlayersRank.as:134
+msgid "３位"
+msgstr "3rd"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:174
+msgid "４位"
+msgstr "4th"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:179
+msgid "役統計(プレイヤー/全体)"
+msgstr "Hands(Player / All) "
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:182
+msgid "フォールド数"
+msgstr "Fold"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:183
+#: com/dotpico/game/ui/screens/ScoreScreen.as:185
+#: com/dotpico/game/ui/screens/ScoreScreen.as:187
+#: com/dotpico/game/ui/screens/ScoreScreen.as:189
+#: com/dotpico/game/ui/screens/ScoreScreen.as:191
+#: com/dotpico/game/ui/screens/ScoreScreen.as:193
+#: com/dotpico/game/ui/screens/ScoreScreen.as:195
+#: com/dotpico/game/ui/screens/ScoreScreen.as:197
+#: com/dotpico/game/ui/screens/ScoreScreen.as:199
+#: com/dotpico/game/ui/screens/ScoreScreen.as:201
+#: com/dotpico/game/ui/screens/ScoreScreen.as:203
+#: com/dotpico/game/ui/screens/ScoreScreen.as:205
+#: com/dotpico/game/ui/screens/ScoreScreen.as:207
+msgid "/"
+msgstr "/"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:184
+#: com/dotpico/playingcards/PokerHand.as:28
+msgid "ノーペア"
+msgstr "High Card"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:186
+#: com/dotpico/playingcards/PokerHand.as:29
+msgid "ワンペア"
+msgstr "One Pair"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:188
+#: com/dotpico/playingcards/PokerHand.as:30
+msgid "ツーペア"
+msgstr "Two Pair"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:190
+#: com/dotpico/playingcards/PokerHand.as:31
+msgid "スリーカード"
+msgstr "Three of a Kind"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:192
+#: com/dotpico/playingcards/PokerHand.as:32
+msgid "ストレート"
+msgstr "Straight"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:194
+#: com/dotpico/playingcards/PokerHand.as:33
+msgid "フラッシュ"
+msgstr "Flush"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:196
+#: com/dotpico/playingcards/PokerHand.as:34
+msgid "フルハウス"
+msgstr "Full House"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:198
+#: com/dotpico/playingcards/PokerHand.as:35
+msgid "フォーカード"
+msgstr "Four of a kind"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:200
+#: com/dotpico/playingcards/PokerHand.as:36
+msgid "ストレートフラッシュ"
+msgstr "Straight Flush"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:202
+#: com/dotpico/playingcards/PokerHand.as:37
+msgid "ロイヤルストレートフラッシュ(ワイルド)"
+msgstr "Royal St Flush(Wild)"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:204
+#: com/dotpico/playingcards/PokerHand.as:38
+msgid "ファイブカード"
+msgstr "Five of a kind"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:206
+#: com/dotpico/playingcards/PokerHand.as:39
+msgid "ロイヤルストレートフラッシュ"
+msgstr "Royal St Flush"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:214
+msgid "成績のリセット"
+msgstr "Reset Score"
+
+#: com/dotpico/game/ui/screens/ScoreScreen.as:234
+msgid "開　く"
+msgstr "Open"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:137
+msgid ""
+"カードの選択モードを設定します。\n"
+"\n"
+"「クイック」はカードを1枚選択すると\n"
+"出せるカードがある場合自動的に\n"
+"選択されます。\n"
+"(複数枚選択する手間が省けます。)\n"
+"\n"
+"「ノーマル」は自分で一枚ずつ選択\n"
+"しなければいけません。"
+msgstr ""
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:138
+msgid ""
+"対戦相手(CPU)の名前のタイプを\n"
+"変更することができます。"
+msgstr ""
+"You can change the type\n"
+" of the name of the CPU."
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:152
+msgid "ゲーム速度"
+msgstr "Game Speed"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:152
+msgid "遅"
+msgstr "-"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:152
+msgid "速"
+msgstr "+"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:154
+msgid "効果音"
+msgstr "Sound Effect"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:154
+msgid "小"
+msgstr "-"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:154
+msgid "大"
+msgstr "+"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:156
+msgid "フォールド後のスキップ"
+msgstr "Skip after your fold"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:158
+msgid "名前のタイプ"
+msgstr "Name Type"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:158
+msgid "戦国風"
+msgstr "Sengoku"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:158
+msgid "ノーマル"
+msgstr "Normal"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:158
+msgid "CPU"
+msgstr "CPU"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:159
+msgid "設定の初期化"
+msgstr "Reset Setting"
+
+#: com/dotpico/game/ui/screens/SettingScreen.as:508
+msgid "次回のゲームから有効になります"
+msgstr "Effective from the next game"
+
+#: com/dotpico/game/view/BotView.as:35
+msgid "合計"
+msgstr "Total"
+
+#: com/dotpico/game/view/PlayerView.as:358
+#: com/dotpico/game/view/button/BettingButtonManager.as:35
+msgid "チェック"
+msgstr "Check"
+
+#: com/dotpico/game/view/PlayerView.as:361
+#: com/dotpico/game/view/button/BettingButtonManager.as:36
+msgid "コール"
+msgstr "Call"
+
+#: com/dotpico/game/view/PlayerView.as:364
+#: com/dotpico/game/view/button/BettingButtonManager.as:37
+msgid "ベット"
+msgstr "Bet"
+
+#: com/dotpico/game/view/PlayerView.as:367
+#: com/dotpico/game/view/button/BettingButtonManager.as:38
+msgid "レイズ"
+msgstr "Raise"
+
+#: com/dotpico/game/view/PlayerView.as:370
+#: com/dotpico/game/view/button/BettingButtonManager.as:34
+#: com/dotpico/playingcards/PokerHand.as:27
+#: com/dotpico/playingcards/PokerHand.as:812
+msgid "フォールド"
+msgstr "Fold"
+
+#: com/dotpico/game/view/PlayerView.as:373
+#: com/dotpico/game/view/animation/StartAnimation.as:63
+msgid "アンティ"
+msgstr "Ante"
+
+#: com/dotpico/game/view/PlayerViewManager.as:159
+msgid "{0}/{1}ラウンド"
+msgstr "Round: {0}/{1}"
+
+#: com/dotpico/game/view/animation/GameEndAnimation.as:129
+msgid "1位"
+msgstr "1st"
+
+#: com/dotpico/game/view/animation/GameEndAnimation.as:131
+msgid "2位"
+msgstr "2nd"
+
+#: com/dotpico/game/view/animation/GameEndAnimation.as:133
+msgid "3位"
+msgstr "3rd"
+
+#: com/dotpico/game/view/animation/GameEndAnimation.as:136
+#: com/dotpico/playingcards/PlayersRank.as:137
+msgid "{0}位"
+msgstr "{0}th"
+
+#: com/dotpico/game/view/animation/GameEndAnimation.as:176
+msgid "ゲーム結果"
+msgstr "Results"
+
+#: com/dotpico/game/view/animation/GameEndAnimation.as:177
+msgid "次のゲーム"
+msgstr "Next Game"
+
+#: com/dotpico/game/view/animation/RoundEndAnimation.as:47
+msgid "次のラウンド"
+msgstr "Next Round"
+
+#: com/dotpico/game/view/animation/RoundEndAnimation.as:132
+msgid "ショーダウン"
+msgstr "Showdown"
+
+#: com/dotpico/game/view/animation/RoundStartAnimation.as:59
+msgid "第{0}ラウンド"
+msgstr "Round {0}"
+
+#: com/dotpico/game/view/animation/StartAnimation.as:66
+msgid "ベッティンググラウンド"
+msgstr "Betting Round"
+
+#: com/dotpico/game/view/animation/StartAnimation.as:69
+msgid "交   換"
+msgstr "The Draw"
+
+#: com/dotpico/game/view/button/BettingButtonManager.as:32
+msgid "出  す"
+msgstr "Discard"
+
+#: com/dotpico/game/view/button/ButtonManager.as:123
+msgid "パ  ス"
+msgstr "Pass"
+
+#: com/dotpico/game/view/button/ChangeButtonManager.as:17
+msgid "交  換"
+msgstr "Change"
+
+#: com/dotpico/game/view/button/ChangeButtonManager.as:18
+msgid "交換しない"
+msgstr "No Change"
+
+#: com/dotpico/game/view/button/ChangeButtonManager.as:20
+msgid "全て交換"
+msgstr "All Change"
+
+#: com/dotpico/game/view/button/DebugSaveButtonManager.as:20
+msgid "ロード"
+msgstr "Load"
+
+#: com/dotpico/game/view/button/DebugSaveButtonManager.as:27
+msgid "セーブ"
+msgstr "Save"
+
+#: com/dotpico/game/view/button/DebugSaveButtonManager.as:42
+msgid "ポーズ"
+msgstr "Pause"
+
+#: com/dotpico/game/view/button/GameSkipButtonManager.as:22
+msgid "スキップ"
+msgstr "Skip"
+
+#: com/dotpico/game/view/button/GameSkipButtonManager.as:30
+msgid "スキップ中"
+msgstr "Skipping"
+
+#: com/dotpico/game/view/button/GameSkipButtonManager.as:30
+msgid "    少々お待ちください。    "
+msgstr "Please Wait..."
+
+#: com/dotpico/playingcards/CardManager.as:544
+#: com/dotpico/playingcards/Player.as:68
+msgid "なし"
+msgstr "None"
+
+#: com/dotpico/playingcards/Player.as:71
+msgid "ふつう"
+msgstr "Normal"
+
+#: com/dotpico/playingcards/Player.as:72
+msgid "ドン２"
+msgstr "Last 2"
+
+#: com/dotpico/playingcards/Player.as:73
+msgid "最下位"
+msgstr "Last"
+
+#: com/dotpico/playingcards/PlayerManager.as:858
+#: com/dotpico/playingcards/PlayerManager.as:952
+msgid "NG,順番が違う"
+msgstr "NG, Turn Error"
+
+#: com/dotpico/playingcards/PlayerManager.as:893
+msgid "NG,raiseできない"
+msgstr "NG, can't raise"
+
+#: com/dotpico/playingcards/PlayerManager.as:903
+msgid "NG,actionがない"
+msgstr "NG, no action"
+
+#: com/dotpico/playingcards/PlayerManager.as:959
+msgid "NG,フォールド"
+msgstr "NG, fold"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:69
+msgid "ベッティングラウンド"
+msgstr "Betting Round"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:70
+msgid "交換"
+msgstr "change"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:154
+msgid "次の順番."
+msgstr "Next turn"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:223
+msgid "コマンド処理中"
+msgstr "Command processing..."
+
+#: com/dotpico/playingcards/PokerGameEngine.as:363
+msgid "コマンドエラー！"
+msgstr "Command Error"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:415
+msgid "Initしてください"
+msgstr "Please Init"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:431
+#: com/dotpico/playingcards/PokerGameEngine.as:458
+msgid "プレイヤー作成完了! game seed:{0}"
+msgstr "Player created! game seed:{0}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:464
+msgid "ラウンド:{0} スタート"
+msgstr "Round {0} Start"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:469
+msgid "ディーラー決定！ id:{0}"
+msgstr "Dealer! id:{0}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:489
+msgid "カード配り完了！ round seed:{0}"
+msgstr "Card Dealed! seed:{0}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:492
+msgid "アンティ開始！ round seed:{0}"
+msgstr "Ante start! round seed:{0}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:513
+msgid "アンティ完了！ ante:{0} bot:{1}"
+msgstr "Ante done! ante:{0} bot:{1}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:683
+msgid "ENDメッセージを受け取りました。"
+msgstr "End Message recieved."
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1039
+#: com/dotpico/playingcards/PokerGameEngine.as:1098
+#: com/dotpico/playingcards/PokerGameEngine.as:1153
+msgid "パラメータ異常"
+msgstr "Parameter Error"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1046
+msgid "ルール設定成功！\n"
+msgstr "Setting Rule scceed!\n"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1059
+msgid "設定失敗。ルールがありません:"
+msgstr "Setting Rule failed!.Nothing rule:"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1105
+#: com/dotpico/playingcards/PokerGameEngine.as:1160
+msgid "設定成功！\n"
+msgstr "Setting scueed!\n"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1114
+#: com/dotpico/playingcards/PokerGameEngine.as:1169
+msgid "設定失敗。Keyがありません:"
+msgstr "Setting failed. Nothing Key"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1311
+msgid "ゲーム開始待ち"
+msgstr "Wait Game"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1314
+msgid "ラウンド開始待ち"
+msgstr "Wait Round"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1317
+msgid "ベッティングラウンド: {0}回目"
+msgstr "Betting Round:{0}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1320
+#: com/dotpico/playingcards/PokerGameEngine.as:1339
+msgid "{0}(id:{1})の順番"
+msgstr "Turn:{0}(id:{1})"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1326
+msgid "フォールド、チェック、ベットしてください"
+msgstr "Please Fold, Bet, Check"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1328
+msgid "フォールド、ベットしてください"
+msgstr "Please fold, bet"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1331
+msgid "フォールド、コール、レイズしてください"
+msgstr "Please fold, call, raise"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1333
+msgid "フォールド、コールしてください"
+msgstr "Please fold, call"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1336
+msgid "交換ラウンド"
+msgstr "Change"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1343
+msgid "交換するカードを入力してください"
+msgstr "Please input trade card."
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1347
+msgid "ラウンド終了"
+msgstr "End Round"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1349
+msgid "勝者: "
+msgstr "Winner:"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1353
+msgid "id:{0} {1} "
+msgstr "id:{0} {1}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1357
+msgid "ラウンドスコア: {0}"
+msgstr "Round Score:{0}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1359
+msgid "ゲームスコア: {0}"
+msgstr "Game Score:{0}"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1363
+msgid "ゲーム終了"
+msgstr "Result"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1403
+msgid "持っているカード\n"
+msgstr "Have cards\n"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1417
+msgid "場札の情報\n"
+msgstr "Discard Information\n"
+
+#: com/dotpico/playingcards/PokerGameEngine.as:1427
+msgid "ハンド情報\n"
+msgstr "Hands\n"
+
+#: com/dotpico/playingcards/Const/KinshiAgariType.as:10
+msgid "ジョーカーあまり"
+msgstr "Joker Rest"
+
+#: com/dotpico/playingcards/Const/KinshiAgariType.as:11
+msgid "パス回数オーバー"
+msgstr "Pass Over"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:21
+#: com/dotpico/playingcards/Const/PlayerNames.as:34
+msgid "You"
+msgstr "You"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:22
+msgid "たろう"
+msgstr "Taro"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:23
+msgid "めぐみ"
+msgstr "Megu"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:24
+msgid "つよし"
+msgstr "Mike"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:25
+msgid "ひとみ"
+msgstr "Mary"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:26
+msgid "けんじ"
+msgstr "Ken"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:27
+msgid "りえこ"
+msgstr "Rie"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:28
+msgid "レン"
+msgstr "Ren"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:29
+msgid "ゆき"
+msgstr "Yuki"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:30
+msgid "ケン"
+msgstr "John"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:35
+msgid "信長"
+msgstr "Nobunaga"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:36
+msgid "秀吉"
+msgstr "Hideyoshi"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:37
+msgid "家康"
+msgstr "Ieyasu"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:38
+msgid "信玄"
+msgstr "Shingen"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:39
+msgid "謙信"
+msgstr "Kenshin"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:40
+msgid "政宗"
+msgstr "Masamune"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:41
+msgid "元就"
+msgstr "Motonari"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:42
+msgid "義元"
+msgstr "Yoshimoto"
+
+#: com/dotpico/playingcards/Const/PlayerNames.as:43
+msgid "元親"
+msgstr "Mototika"
+
+#: com/dotpico/playingcards/setting/Rule.as:168
+msgid "読み込みミス。ルールがありません:"
+msgstr "Read Error. Nothing Rule:"
+
+#: com/dotpico/playingcards/setting/Score.as:248
+#: com/dotpico/playingcards/setting/Setting.as:165
+msgid "読み込みミス。項目がありません:"
+msgstr "Read Error. Nothing Param"
+
+#~ msgid "勝率(ラウンド)"
+#~ msgstr "Win Rate"
+
+#~ msgid "七並べ"
+#~ msgstr "Sevens"
+
+#~ msgid "７ならべ"
+#~ msgstr "Sevens"
+
+#~ msgid "パス回数"
+#~ msgstr "Pass Num"
+
+#~ msgid "0回"
+#~ msgstr "0"
+
+#~ msgid "1回"
+#~ msgstr "1"
+
+#~ msgid "2回"
+#~ msgstr "2"
+
+#~ msgid "3回"
+#~ msgstr "3"
+
+#~ msgid "4回"
+#~ msgstr "4"
+
+#~ msgid "制限なし"
+#~ msgstr "Unlimited"
+
+#~ msgid "トンネル"
+#~ msgstr "Tunnel"
+
+#~ msgid "OFF"
+#~ msgstr "OFF"
+
+#~ msgid "ON"
+#~ msgstr "ON"
+
+#~ msgid "ON(通常出しも可能)"
+#~ msgstr "ON(Normal OK)"
+
+#~ msgid "JOKERの受け取り"
+#~ msgstr "Joker Recieve"
+
+#~ msgid "受け取らない"
+#~ msgstr "No Recieve"
+
+#~ msgid "受け取る"
+#~ msgstr "Recieve"
+
+#~ msgid "その都度聞く"
+#~ msgstr "Ask"
+
+#~ msgid "最初の順番"
+#~ msgstr "Starts the first round"
+
+#~ msgid "スペードの７"
+#~ msgstr "7♠"
+
+#~ msgid "クラブの７"
+#~ msgstr "7♣"
+
+#~ msgid "ハートの７"
+#~ msgstr "7♥"
+
+#~ msgid "ダイヤの７"
+#~ msgstr "7♦"
+
+#~ msgid "最下位から"
+#~ msgstr "Last"
+
+#~ msgid "自分から"
+#~ msgstr "You"
+
+#~ msgid "得点"
+#~ msgstr "Points"
+
+#~ msgid "総合"
+#~ msgstr "Total"
+
+#~ msgid "総対戦数"
+#~ msgstr "Total Rounds"
+
+#~ msgid "勝率(２位含む)"
+#~ msgstr "Win Rate(Contain Second)"
+
+#~ msgid "１位連続回数(最高)"
+#~ msgstr "1st again num(Best)"
+
+#~ msgid "１位連続回数(現在)"
+#~ msgstr "1st again num(Now)"
+
+#~ msgid "１位になった回数"
+#~ msgstr "1st times"
+
+#~ msgid "２位になった回数"
+#~ msgstr "2nd times"
+
+#~ msgid "３位になった回数"
+#~ msgstr "3rd times"
+
+#~ msgid "４位になった回数"
+#~ msgstr "4th times"
+
+#~ msgid "自動パス"
+#~ msgstr "Auto Pass"
+
+#~ msgid "パス"
+#~ msgstr "Pass"
+
+#~ msgid "Joker{0}を受け取りますか？"
+#~ msgstr "Do you recieve Joker{0}"
+
+#~ msgid "パス:{0}回"
+#~ msgstr "Pass:{0}"
+
+#~ msgid "捨てれるカード\n"
+#~ msgstr "Discardable cards\n"
+
+#~ msgid "ストックカード : "
+#~ msgstr "Stock Cards:"
+
+#~ msgid "\n"
+#~ msgstr "\n"
+
+#~ msgid "捨て札 : "
+#~ msgstr "Discarded:"
+
+#~ msgid "7出し:"
+#~ msgstr "Discard 7:"
+
+#~ msgid "NG,パラメータ異常(カードがない)"
+#~ msgstr "NG, Parameter Error"
+
+#~ msgid "NG,カードがマッチしない"
+#~ msgstr "NG, Mismatch Cards"
+
+#~ msgid "順番のセット完了"
+#~ msgstr "Turn setted"
+
+#~ msgid "7出し失敗"
+#~ msgstr "Failed Discard7"
+
+#~ msgid "7出し完了:"
+#~ msgstr "Suceed Discard7:"
+
+#~ msgid "ゲームを開始してください"
+#~ msgstr "Please start Game"
+
+#~ msgid ""
+#~ "\n"
+#~ "捨てるカードを入力してください"
+#~ msgstr ""
+#~ "\n"
+#~ "Please input discarding cards"
+
+#~ msgid "DISCARDING中"
+#~ msgstr "Discarding"
+
+#~ msgid "jokerを交換:{0}枚"
+#~ msgstr "Trade Joker:{0}"
+
+#~ msgid "Jokerをうけとりますか？"
+#~ msgstr "Do you recieve Joker?"
+
+#~ msgid "ラスト２になった回数"
+#~ msgstr "Last 2 times"
+
+#~ msgid "最下位になった回数"
+#~ msgstr "Last times"
+
+#~ msgid "それ以外"
+#~ msgstr "Etc"
+
+#~ msgid "大貧民"
+#~ msgstr "Daihinmin"
+
+#~ msgid "プレイ人数"
+#~ msgstr "Players"
+
+#~ msgid "２人"
+#~ msgstr "2"
+
+#~ msgid "３人"
+#~ msgstr "3"
+
+#~ msgid "４人"
+#~ msgstr "4"
+
+#~ msgid "５人"
+#~ msgstr "5"
+
+#~ msgid "６人"
+#~ msgstr "6"
+
+#~ msgid "７人"
+#~ msgstr "7"
+
+#~ msgid "８人"
+#~ msgstr "8"
+
+#~ msgid "カード選択"
+#~ msgstr "Select Cards"
+
+#~ msgid "クイック"
+#~ msgstr "Quick"
+
+#~ msgid "トランプ大富豪! "
+#~ msgstr "Daifugo!"
+
+#~ msgid "基本(ポピュラーなもの)"
+#~ msgstr "Basic Rules"
+
+#~ msgid "8切り"
+#~ msgstr "8 Ender"
+
+#~ msgid "階段時"
+#~ msgstr "Sequence"
+
+#~ msgid "11バック"
+#~ msgstr "11 Back"
+
+#~ msgid "5スキップ"
+#~ msgstr "5 Skip"
+
+#~ msgid "13スキップ"
+#~ msgstr "13 Skip"
+
+#~ msgid "7渡し"
+#~ msgstr "7 Give"
+
+#~ msgid "枚数選択"
+#~ msgstr "selection of number"
+
+#~ msgid "10捨て"
+#~ msgstr "10 Discard"
+
+#~ msgid "9リバース"
+#~ msgstr "9 Reverse"
+
+#~ msgid "Qリバース(12)"
+#~ msgstr "12 Reverse"
+
+#~ msgid "革命"
+#~ msgstr "Revolution"
+
+#~ msgid "階段革命"
+#~ msgstr "Rvolution(Sequence)"
+
+#~ msgid "ジョーカーの使用"
+#~ msgstr "Joker"
+
+#~ msgid "クーデター"
+#~ msgstr "Coup(9 x 3)"
+
+#~ msgid "6返し"
+#~ msgstr "6 Pay Back"
+
+#~ msgid "オーメン"
+#~ msgstr "Omen(6 x 3)"
+
+#~ msgid "ナナサン革命"
+#~ msgstr "73Kakumei(7 x 3)"
+
+#~ msgid "階段"
+#~ msgstr "Sequece"
+
+#~ msgid "縛り"
+#~ msgstr "Tight"
+
+#~ msgid "回数"
+#~ msgstr "Number"
+
+#~ msgid "2回連続"
+#~ msgstr "2"
+
+#~ msgid "3回連続"
+#~ msgstr "3"
+
+#~ msgid "スート縛り"
+#~ msgstr "Tight(Suits)"
+
+#~ msgid "片しば"
+#~ msgstr "Tight(One Side)"
+
+#~ msgid "完しば(両しば)"
+#~ msgstr "Tight(Comp)"
+
+#~ msgid "数字縛り"
+#~ msgstr "Tight(Number)"
+
+#~ msgid "激しば"
+#~ msgstr "Tight(All+Num)"
+
+#~ msgid "途中しばり"
+#~ msgstr "Tight(Middle)"
+
+#~ msgid "禁止あがり"
+#~ msgstr "Forbidden Last Card"
+
+#~ msgid "2あがり"
+#~ msgstr "2"
+
+#~ msgid "「8切り」でのあがり"
+#~ msgstr "8 Enders"
+
+#~ msgid "「11バック」でのあがり"
+#~ msgstr "11 Back"
+
+#~ msgid "「7渡し」(渡したカード)"
+#~ msgstr "7 Give"
+
+#~ msgid "「10捨て」(捨てたカード)"
+#~ msgstr "10 Discard(Discarded cards)"
+
+#~ msgid "「スペ3返し」でのあがり"
+#~ msgstr "3♠ Pay Back"
+
+#~ msgid "場流れ系"
+#~ msgstr "Ender"
+
+#~ msgid "ろくろ首(6を2枚)"
+#~ msgstr "Rokuro Kubi(6 x 2)"
+
+#~ msgid "救急車(9を2枚)"
+#~ msgstr "99Sya(9 x 2)"
+
+#~ msgid "砂嵐(3を3枚)"
+#~ msgstr "Sunaarashi(3 x 3)"
+
+#~ msgid "返し系"
+#~ msgstr "Pay Back"
+
+#~ msgid "スペ３返し(Joker)"
+#~ msgstr "3♠ Pay Back(Joker)"
+
+#~ msgid "４止め(8切り)"
+#~ msgstr "4 Stop(8 Ender)"
+
+#~ msgid "ゲーム全体"
+#~ msgstr "Game"
+
+#~ msgid "都落ち"
+#~ msgstr "Miyako Ochi"
+
+#~ msgid "#大富豪"
+#~ msgstr "#daifugo"
+
+#~ msgid "勝率(大富豪のみ)"
+#~ msgstr "Win Rate(Daifugo)"
+
+#~ msgid "勝率(富豪含む)"
+#~ msgstr "Win rate(Daifugo,Fugo)"
+
+#~ msgid "ランク"
+#~ msgstr "Rank"
+
+#~ msgid "大富豪になった回数"
+#~ msgstr "Daifugo"
+
+#~ msgid "貧民になった回数"
+#~ msgstr "Hinmin"
+
+#~ msgid "大貧民になった回数"
+#~ msgstr "Daihinmin"
+
+#~ msgid "捨てる"
+#~ msgstr "Discard"
+
+#~ msgid "    捨てるカードをお選びください。    "
+#~ msgstr "Please select cards."
+
+#~ msgid "    可能枚数：{0}枚"
+#~ msgstr "Number: {0}"
+
+#~ msgid "以内"
+#~ msgstr " Within"
+
+#~ msgid "交換中"
+#~ msgstr "Trading..."
+
+#~ msgid "    交換するカードをお選びください。    "
+#~ msgstr "Please select the card to trade."
+
+#~ msgid "    交換ボタンを押してください。    "
+#~ msgstr "Please click Trade Button"
+
+#~ msgid "    枚数：{0}枚"
+#~ msgstr "Number: {0}"
+
+#~ msgid "渡  す"
+#~ msgstr "Give"
+
+#~ msgid "    渡すカードをお選びください。    "
+#~ msgstr "Please select giving cards.    "
+
+#~ msgid "リバース"
+#~ msgstr "Reverse"
+
+#~ msgid "禁止上がり。タイプ:{0}"
+#~ msgstr "Kinshi Agari. Type:{0}"
+
+#~ msgid "{0}は、上がりました"
+#~ msgstr "{0} have completed."
+
+#~ msgid "上がり流しで場流れ"
+#~ msgstr "Banagare(Agari Nagashi)"
+
+#~ msgid "次の順番"
+#~ msgstr "Next Turn"
+
+#~ msgid "即時場流れ"
+#~ msgstr "Sokuji Banagare"
+
+#~ msgid "パス１巡による場流れ"
+#~ msgstr "Banagare(All Pass)"
+
+#~ msgid "大富豪 ver 1.0"
+#~ msgstr "Daifugo! ver 1.0"
+
+#~ msgid "カード交換完了！"
+#~ msgstr "Cards Traded!"
+
+#~ msgid "しばり:{0}\n"
+#~ msgstr "Shibari: {0}\n"
+
+#~ msgid "片しば:{0}\n"
+#~ msgstr "KataShiba:{0}\n"
+
+#~ msgid "完しば:{0}\n"
+#~ msgstr "KanShiba:{0}\n"
+
+#~ msgid "数字しばり:ランク:{0}\n"
+#~ msgstr "Suuji Shibari: Rank:{0}\n"
+
+#~ msgid "7渡し。カードを選んでください。"
+#~ msgstr "7 Give. Please select cards."
+
+#~ msgid "10捨て。カードを選んでください。"
+#~ msgstr "10 Discard. Please select cards."
+
+#~ msgid "大富豪"
+#~ msgstr "Daifugo"
+
+#~ msgid "富豪"
+#~ msgstr "Fugo"
+
+#~ msgid "平民"
+#~ msgstr "Heimin"
+
+#~ msgid "貧民"
+#~ msgstr "Hinmin"
+
+#~ msgid "既に交換済み"
+#~ msgstr "Trade done"
+
+#~ msgid "プレーヤーIDが存在しない"
+#~ msgstr "Player ID none"
+
+#~ msgid "既にプレイヤーのdoSwap済み"
+#~ msgstr "Trade done"
+
+#~ msgid "NG,Discard失敗"
+#~ msgstr "NG, Discard failed"
+
+#~ msgid "順番が違う"
+#~ msgstr "Turn Error"
+
+#~ msgid "カード枚数が多い"
+#~ msgstr "Cards many"
+
+#~ msgid "枚数選択不可"
+#~ msgstr "Can not Number of Select"
+
+#~ msgid "Watashi7失敗"
+#~ msgstr "Watashi 7 failed"
+
+#~ msgid "Sute10失敗"
+#~ msgstr "Sute10 failed"
+
+#~ msgid "反革命"
+#~ msgstr "ReRevolution"
+
+#~ msgid "６返し"
+#~ msgstr "6 Pay Back"
+
+#~ msgid "８切り"
+#~ msgstr "8 Ender"
+
+#~ msgid "４止め"
+#~ msgstr "4 Stop"
+
+#~ msgid "スペ３返し"
+#~ msgstr "3 of Spades Pay Back"
+
+#~ msgid "５スキップ"
+#~ msgstr "5 Skip"
+
+#~ msgid "９リバース"
+#~ msgstr "9 Reverse"
+
+#~ msgid "Ｑリバース"
+#~ msgstr "12 Reverse"
+
+#~ msgid "７渡し"
+#~ msgstr "7 Give"
+
+#~ msgid "砂あらし"
+#~ msgstr "Sandstorm"
+
+#~ msgid "救急車"
+#~ msgstr "99Sya"
+
+#~ msgid "ろくろ首"
+#~ msgstr "RokuroKubi"
+
+#~ msgid "ジョーカー上がり"
+#~ msgstr "Joker(Last Card)"
+
+#~ msgid "７渡し上がり"
+#~ msgstr "7 Give(Last Card)"
+
+#~ msgid ""
+#~ "\n"
+#~ "枚数不足"
+#~ msgstr ""
+#~ "\n"
+#~ "Short"
+
+#~ msgid "10捨て上がり"
+#~ msgstr "10 Discard(Last Card)"
+
+#~ msgid "２上がり"
+#~ msgstr "Last Card 2"
+
+#~ msgid ""
+#~ "３上がり\n"
+#~ "11バック"
+#~ msgstr ""
+#~ "3(Last Card)\n"
+#~ "11Back"
+
+#~ msgid ""
+#~ "３上がり\n"
+#~ "革命"
+#~ msgstr ""
+#~ "3(Last Card)\n"
+#~ "Revolution"
+
+#~ msgid ""
+#~ "２上がり\n"
+#~ "11バック"
+#~ msgstr ""
+#~ "2(Last Card)\n"
+#~ "11 Back"
+
+#~ msgid "８切り上がり"
+#~ msgstr "8 Ender(Last Card)"
+
+#~ msgid "11バック上がり"
+#~ msgstr "11 Back(Last Card)"
+
+#~ msgid "スペ３返し上がり"
+#~ msgstr "3 of Spades(Last Cards)"
+
+#~ msgid "しばり"
+#~ msgstr "Tight"
+
+#~ msgid "完しば"
+#~ msgstr "Tight(All Suits)"
+
+#~ msgid "数字しばり"
+#~ msgstr "Tight(Number)"
+
+#~ msgid "激しば."
+#~ msgstr "Tight(All+Num)."
+
+#, fuzzy
+#~ msgid "スペ３返し(革命)"
+#~ msgstr "3 of Spades Pay Back"
+
+#~ msgid "難易度"
+#~ msgstr "Game Level"
+
+#~ msgid "normal"
+#~ msgstr "Normal"
+
+#~ msgid "hard"
+#~ msgstr "Hard"
+
+#~ msgid ""
+#~ "７渡し上がり.\n"
+#~ "枚数不足"
+#~ msgstr ""
+#~ "7 Give(Last Card)\n"
+#~ "Short"
+
+#~ msgid "革命."
+#~ msgstr "Revolution."
+
+#~ msgid "反革命."
+#~ msgstr "ReRevolution."
+
+#~ msgid "８切り."
+#~ msgstr "8 Ender."
+
+#~ msgid "11バック."
+#~ msgstr "11 Back."
+
+#~ msgid "５スキップ."
+#~ msgstr "5Skip."

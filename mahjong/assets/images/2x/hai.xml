@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:809e4d22fdb1764cf63aec8446b2172f:d877bad479cbd25193aebd7199764d85:87da03d88b19df757176829e5f650ecf$ -->
+<TextureAtlas imagePath="hai.png">
+    <SubTexture name="1m" x="3" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="1p" x="3" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="1s" x="3" y="611" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="2m" x="3" y="915" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="2p" x="3" y="1219" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="2s" x="3" y="1523" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="3m" x="206" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="3p" x="409" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="3s" x="612" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="4m" x="815" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="4p" x="1018" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="4s" x="1221" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="5m" x="1424" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="5p" x="1627" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="5s" x="1830" y="3" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="6m" x="206" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="6p" x="206" y="611" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="6s" x="206" y="915" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="7m" x="206" y="1219" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="7p" x="206" y="1523" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="7s" x="409" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="8m" x="409" y="611" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="8p" x="409" y="915" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="8s" x="409" y="1219" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="9m" x="409" y="1523" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="9p" x="612" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="9s" x="815" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="bk" x="612" y="1219" width="199" height="299" frameX="-1" frameY="-1" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="中" x="1018" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="北" x="1221" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="南" x="1424" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="東" x="1627" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="発" x="1830" y="307" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="白" x="612" y="611" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+    <SubTexture name="西" x="612" y="915" width="199" height="300" frameX="-1" frameY="0" frameWidth="200" frameHeight="300"/>
+</TextureAtlas>
